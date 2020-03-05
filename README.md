@@ -33,23 +33,3 @@ Requirements
 * You should have the latest LaTeX version. Here are
   [LaTeX installation instructions](http://martin-thoma.com/how-to-install-the-latest-latex-version/).
 * If you want to use the Makefiles, you have to have make installed.
-
-
-Contact
-=======
-If you have examples or suggestions for improving given examples, please send
-them to info@martin-thoma.de.
-
-
-Re-use
-=======
-Feel free to use and modify the examples in this repository,
-but please add a link to this repository or martin-thoma.com.
-
-*Most* of the content was created completely by me. But check
-the Readme files in each specific folder to make sure you can use it.
-
-Other resources
-===============
-* [LaTeX Templates](http://www.latextemplates.com/)
-* [LaTeX templates for writing a thesis](http://tex.stackexchange.com/q/326/5645)
